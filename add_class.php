@@ -1,8 +1,5 @@
 <?php
 
-$cfgProgDir =  'phpSecurePages/';
-include($cfgProgDir . "secure.php");
-
 function show_form() {
 global $id;
 echo '
