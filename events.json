@@ -1,0 +1,38 @@
+[
+    {
+        "event_id": "1",
+        "event_date": "2020-11-22",
+        "event_begin_time": "09:00:00",
+        "event_end_time": "09:45:00",
+        "event_name": "Not Your Granny's Chair Yoga",
+        "event_space": "5",
+        "event_signed_up": 1
+    },
+    {
+        "event_id": "2",
+        "event_date": "2020-11-30",
+        "event_begin_time": "09:00:00",
+        "event_end_time": "09:45:00",
+        "event_name": "Not Your Granny's Chair Yoga",
+        "event_space": "5",
+        "event_signed_up": 5
+    },
+    {
+        "event_id": "3",
+        "event_date": "2020-11-14",
+        "event_begin_time": "09:00:00",
+        "event_end_time": "09:45:00",
+        "event_name": "Not Your Granny's Chair Yoga",
+        "event_space": "5",
+        "event_signed_up": 1
+    },
+    {
+        "event_id": "16055799495fb334ada5001",
+        "event_date": "2020-11-19",
+        "event_begin_time": "09:00",
+        "event_end_time": "09:45",
+        "event_name": "Chair Yoga",
+        "event_space": "8",
+        "event_signed_up": 0
+    }
+]
